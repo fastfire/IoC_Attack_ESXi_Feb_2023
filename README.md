@@ -8,3 +8,7 @@ https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-015/
 https://blog.ovhcloud.com/ransomware-targeting-vmware-esxi/
 
 https://www.bleepingcomputer.com/news/security/massive-esxiargs-ransomware-attack-targets-vmware-esxi-servers-worldwide/
+
+Some really useful information to proceed with the recovery of compromised servers
+
+https://enes.dev/
