@@ -17,9 +17,9 @@ Some really useful information to proceed with the recovery of compromised serve
 
 https://enes.dev/
 
-Script that extracts a list of some compromised instances (not all but probably those compromised by the Threat Actor himself). The script also extracts the list of Bitcoin Wallets indicated to pay the ransom, useful for some matches of any Wallets already used elsewhere:
-
 **Payments tracking**
+
+Script that extracts a list of some compromised instances (not all but probably those compromised by the Threat Actor himself). The script also extracts the list of Bitcoin Wallets indicated to pay the ransom, useful for some matches of any Wallets already used elsewhere:
 
 https://gist.github.com/achillean/33fe43afc36208a595e75200cb7abe97
 
