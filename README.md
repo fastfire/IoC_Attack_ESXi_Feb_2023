@@ -29,3 +29,11 @@ it is possible to get a good idea of the compromised surface using these queries
 Shodan (837 compromised hosts on February 6rd): https://beta.shodan.io/search?query=html%3A%22We+hacked+your+company+successfully%22+title%3A%22How+to+Restore+Your+Files%22
 
 Censys (3276 compromised hosts on February 6rd): https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=EXCLUDE&q=services.http.response.html_title%3A%22How+to+Restore+Your+Files%22
+
+**Encryption script**
+
+At the link https://www.bleepingcomputer.com/forums/t/782193/esxi-ransomware-help-and-support-topic-esxiargs-args-extension/page-14#entry5470686 the scripts used by the Threat Actor to encrypt the systems were shared: 
+
+Full script https://pastebin.com/y6wS2BXh
+
+Script + encrypt binary https://we.tl/t-QMYhnF5evE
