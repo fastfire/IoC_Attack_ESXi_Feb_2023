@@ -11,7 +11,7 @@ https://blog.ovhcloud.com/ransomware-targeting-vmware-esxi/
 
 https://www.bleepingcomputer.com/news/security/massive-esxiargs-ransomware-attack-targets-vmware-esxi-servers-worldwide/
 
-**Recover you systems**
+**Recover your systems**
 
 Some really useful information to proceed with the recovery of compromised servers
 
