@@ -24,7 +24,8 @@ Script that extracts a list of some compromised instances (not all but probably 
 https://gist.github.com/achillean/33fe43afc36208a595e75200cb7abe97
 
 **Compromised surface**
-it is possible to get a good idea of the compromised surface using these queries within Shodan and Censys:
+
+It is possible to get a good idea of the compromised surface using these queries within Shodan and Censys:
 
 Shodan (837 compromised hosts on February 6rd): https://beta.shodan.io/search?query=html%3A%22We+hacked+your+company+successfully%22+title%3A%22How+to+Restore+Your+Files%22
 
