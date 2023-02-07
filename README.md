@@ -31,6 +31,8 @@ Shodan (837 compromised hosts on February 6rd): https://beta.shodan.io/search?qu
 
 Censys (3276 compromised hosts on February 6rd): https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=EXCLUDE&q=services.http.response.body%3A+%22How+to+Restore+Your+Files%22+and+services.http.response.html_title%3A%22How+to+Restore+Your+Files%22
 
+ZoomEye: https://www.zoomeye.org/searchResult?q=yytf6btdhrikgywd6aluwbafjgm5oj3pan2lg3czvhs34obs3brid7ad
+
 **Encryption script**
 
 At the link https://www.bleepingcomputer.com/forums/t/782193/esxi-ransomware-help-and-support-topic-esxiargs-args-extension/page-14#entry5470686 the scripts used by the Threat Actor to encrypt the systems were shared: 
