@@ -29,7 +29,7 @@ It is possible to get a good idea of the compromised surface using these queries
 
 Shodan (837 compromised hosts on February 6rd): https://beta.shodan.io/search?query=html%3A%22We+hacked+your+company+successfully%22+title%3A%22How+to+Restore+Your+Files%22
 
-Censys (3276 compromised hosts on February 6rd): https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=EXCLUDE&q=services.http.response.html_title%3A%22How+to+Restore+Your+Files%22
+Censys (3276 compromised hosts on February 6rd): https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=EXCLUDE&q=services.http.response.body%3A+%22How+to+Restore+Your+Files%22+and+services.http.response.html_title%3A%22How+to+Restore+Your+Files%22
 
 **Encryption script**
 
