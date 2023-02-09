@@ -21,6 +21,8 @@ CISA has released a recovery script for organizations that have fallen victim to
 
 https://www.cisa.gov/uscert/ncas/current-activity/2023/02/07/cisa-releases-esxiargs-ransomware-recovery-script
 
+The script is usable only in the first version of the ransomware. With the second version of the ransomware, as indicated in the Bleeping Computer article (https://www.bleepingcomputer.com/news/security/new-esxiargs-ransomware-version-prevents-vmware-esxi-recovery/), in addition to the configuration files, a large part of the data is also encrypted.
+
 **Payments tracking**
 
 Script that extracts a list of some compromised instances (not all but probably those compromised by the Threat Actor himself). The script also extracts the list of Bitcoin Wallets indicated to pay the ransom, useful for some matches of any Wallets already used elsewhere:
