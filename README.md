@@ -37,7 +37,11 @@ Censys (3276 compromised hosts on February 6rd): https://search.censys.io/search
 
 ZoomEye: https://www.zoomeye.org/searchResult?q=yytf6btdhrikgywd6aluwbafjgm5oj3pan2lg3czvhs34obs3brid7ad
 
-**Encryption script**
+**Encryption script**,
+
+Starting from 8 February, a new attack campaign seems to have started and the ransom note made available by the attacker is slightly different from the previous one. Below is the query to identify the new ransom note:
+
+Shodan: https://beta.shodan.io/search?query=html%3A%22and+we+will+send+our+BTC+wallet%22+title%3A%22How+to+Restore+Your+Files%22
 
 At the link https://www.bleepingcomputer.com/forums/t/782193/esxi-ransomware-help-and-support-topic-esxiargs-args-extension/page-14#entry5470686 the scripts used by the Threat Actor to encrypt the systems were shared: 
 
