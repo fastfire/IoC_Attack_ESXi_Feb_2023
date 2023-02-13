@@ -111,3 +111,7 @@
 |64.62.197.2|HURRICANE-4|US|GreyNoise|
 |64.62.197.107|HURRICANE-4|US|GreyNoise|
 |185.181.102.18|M247-Europe-SRL|RO|GreyNoise
+|109.237.97.141|HostGlobalPlus|GB|GreyNoise|
+|109.237.97.124|HostGlobalPlus|GB|GreyNoise|
+|185.225.73.249|Serverion_BV-NET|NL|GreyNoise|
+|164.70.71.140|SIMPLEIA-NET|JP|GreyNoise|
